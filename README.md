@@ -1,10 +1,10 @@
 # team14
 Authors:
 
-	  Zun Cao                  esizzle69
-	  Andrey Lapin             AndrewLapin95      
-	  Alan Man Lok Ng          ngalan818
-	  Tzu-Chin Hsu             jac09/jachsu
+	  esizzle69
+	  AndrewLapin95      
+	  ngalan818
+	  jac09/jachsu
 ## Usage Guidelines
 This is a React based application, so the procedure to start it up is to :
 
