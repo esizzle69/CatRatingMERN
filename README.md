@@ -1,10 +1,10 @@
-# team14
 Authors:
 
 	  esizzle69
 	  AndrewLapin95      
 	  ngalan818
 	  jac09/jachsu
+	  
 ## Usage Guidelines
 This is a MERN based application, so the procedure to start it up is to :
 
@@ -22,10 +22,21 @@ If run locally:
       The Backend server will be available on localhost:5000
       The application will be available on localhost:3000
 
-Heroku Link:
+Deployed Heroku Link:
       
       http://cat-rating.herokuapp.com/
 
+To deploy on a new Heroku repo:
+
+      - register an Heroku account
+      - add mLab MongoDB as the database
+      - in Settings/Congif Vars set following enviromental variables:
+      		API_KEY			"API key from a cloud source. e.g. Cloudinary"
+		API_SECRET		"API Secret provided by your cloud"
+		CLOUD_NAME		"Provded by your cloud"
+		MONGODB_URI 		"Should be automatically there if you've already
+					 created an mLab MongoDB on your heroku repo"
+      
 Backend routes:
 
       app.post('/user'):                  To create a new user. 
