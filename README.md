@@ -8,7 +8,7 @@ Authors:
 ## Usage Guidelines
 This is a MERN based application, so the procedure to start it up is to :
 
-If run locally:
+To run locally:
 
       cd team14/cat-rating
       npm install                         - to install all the dependencies
