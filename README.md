@@ -1,7 +1,7 @@
 # team14
 Authors:
 
-	  Zun Cat                  esizzle69
+	  Zun Cao                  esizzle69
 	  Andrey Lapin             AndrewLapin95      
 	  Alan Man Lok Ng          ngalan818
 	  Tzu-Chin Hsu             jac09/jachsu
