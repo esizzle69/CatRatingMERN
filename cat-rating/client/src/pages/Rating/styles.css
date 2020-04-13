@@ -1,0 +1,35 @@
+/* Styles for the Rating page*/
+
+.post{
+  width:400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  position: relative;
+  left: 40%;
+}
+
+a {
+  text-decoration:none
+}
+
+.cardBanner{
+  background-color: #2E3B55;
+  color: #ffffff;
+}
+
+.text-align{
+  position: relative;
+  left: 5px;
+  top: -4px;
+}
+
+.bio{
+  margin-top: 10px;
+}
+
+.background {
+  background: url("../../images/background.jpg") center center fixed; 
+  background-repeat: repeat;
+}

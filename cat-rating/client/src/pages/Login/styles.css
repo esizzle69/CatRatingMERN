@@ -1,0 +1,22 @@
+/* Styles for the Login Page React component */
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+.login {
+  width: 300px;
+  height: 200px;
+  border-radius: 45px;
+  top: 30%;
+  padding: 100px;
+  margin:auto;
+  text-align: center;
+}
+
+.noneopa {
+
+  fontWeight: "bold"
+}

@@ -1,0 +1,105 @@
+/* Styles for the Admin page*/
+
+.p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.text-align {
+    position: relative;
+    left: 5px;
+    top: -4px;
+}
+
+.dashboardTitle {
+    display: inline-block;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 5%;
+    margin-bottom: 0;
+    color: white;
+    background: brown;
+}
+
+.gridRow {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.reportedCatsContainer {
+    background-color: white;
+    border-radius: 10px;
+    opacity: 0.9;
+    display: block;
+    margin: auto;
+    width: 1200px;
+    margin-top: 2.5%;
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+
+.cardContainer {
+    width: 1200px;
+    height: 450px;
+}
+
+.card {
+    margin-top: 2.5%;
+    width: 250px;
+    height: 320px;
+    margin: auto;
+    flexDirection: column;
+}
+
+.cardActions {
+    padding: 0px;
+}
+
+.cardMedia {
+    height: 150px;
+}
+
+.cardContent {
+    display: flex;
+    justify-content: center;
+}
+
+.post {
+    display: block;
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.card1 {
+    margin-top: 2.5%;
+    width: 250px;
+    height: 360px;
+    margin: auto;
+    flexDirection: column;
+}
+
+.cardContent1 {
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+    -ms-transform: scale(1.0);
+    transform: scale(1.0);
+}
+
+.cardActions1 {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+
+.post1 {
+    margin: auto;
+    text-align: center;
+}
+
+.number {
+    font-size: 20px;
+}

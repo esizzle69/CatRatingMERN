@@ -1,0 +1,25 @@
+footer {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(100, 149, 237, 80%);
+    margin-top: 5%;
+
+}
+
+.footer-h4{
+    margin: 5px; 
+}
+
+.footer-p{
+    margin: 0px;
+}
+
+
+html { 
+    background: url("../../images/background.jpg") no-repeat center center fixed; 
+    background-repeat: repeat;
+  }

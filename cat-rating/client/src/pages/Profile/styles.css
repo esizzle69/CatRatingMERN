@@ -1,0 +1,53 @@
+/* Styles for the profile page*/
+
+
+.catListCard {
+  padding-top: 0px;
+}
+
+.propic {
+  width: 90%;
+  padding-left: 5%;
+}
+
+  .container{
+    margin-top: 20px;
+  }
+
+
+  .Title{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0px;
+    background-color: cornflowerblue;
+    color: white;
+  }
+  
+
+  .catsTable{
+      display: block;
+      height: 70%;
+      overflow-y: scroll;
+    }
+    
+    .tableCell{
+      display: inline-grid;
+      padding-bottom: 5px;
+    }
+    
+    .link{
+      margin-top: 10%;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw; 
+  }
+  .cat{
+      object-fit: cover;
+      width: 10vw;
+      height: 10vw;
+      border-radius: 40%;
+  }
+
+  .MuiCardActions-root{
+      margin-left: 10px;
+      margin-right: 10px;
+  }
