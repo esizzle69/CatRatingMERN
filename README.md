@@ -32,10 +32,10 @@ To deploy on a new Heroku repo:
       - add mLab MongoDB as the database
       - in Settings/Congif Vars set following enviromental variables:
       
-	API_KEY			"API key from a cloud source. e.g. Cloudinary"
-	API_SECRET		"API Secret provided by your cloud"
-	CLOUD_NAME		"Provded by your cloud"
-	MONGODB_URI 		"Should be automatically there if you've already
+	    API_KEY		"API key from a cloud source. e.g. Cloudinary"
+	    API_SECRET		"API Secret provided by your cloud"
+	    CLOUD_NAME		"Provded by your cloud"
+	    MONGODB_URI 	"Should be automatically there if you've already
 				 created an mLab MongoDB on your heroku repo"
       
 Backend routes:
