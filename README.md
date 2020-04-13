@@ -6,7 +6,7 @@ Authors:
 	  ngalan818
 	  jac09/jachsu
 ## Usage Guidelines
-This is a React based application, so the procedure to start it up is to :
+This is a MERN based application, so the procedure to start it up is to :
 
 If run locally:
 
